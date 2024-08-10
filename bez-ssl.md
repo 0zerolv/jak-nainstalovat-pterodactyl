@@ -2,12 +2,17 @@
 
 
 **V prvním kroku se přihlásíme do SSH klienta.**
+
 Poté se příhlásíme jako root.
 
+
 **V druhém kroku naistalujeme curl pokud jej nemáme.**
+
 Pokud nemáte naistalovaný curl, nainstalujeme jej abychom mohli pokračovat.
 
+
 **V třetím kroku začneme s instalací samotného panelu.**
+
 Jestliže máte curl nainstalovaný, začneme s instalací samotného Pterodactyl panelu. Využíjeme instalační příkaz, který nám to zjednodušší.
 ```bash
 bash <(curl -s https://pterodactyl-installer.se)
@@ -37,6 +42,7 @@ bash <(curl -s https://pterodactyl-installer.se)
 |                  | 9       | :white_check_mark: | 8.1         |
 | AlmaLinux        | 8       | :white_check_mark: | 8.1         |
 |                  | 9       | :white_check_mark: | 8.1         |
+
 
 **Ve čtvrtém kroku začneme s odpovídám na dotazy, které nám to bude klást.**
 *Pokračování příště, během pár dnů/týdnů to přibyde*
